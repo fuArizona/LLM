@@ -7,7 +7,6 @@ A Chatbot Uses Groq to launch Llama 3 8B, at is https://colab.research.google.co
 # Llama 3.1:
 
 Using Replicate API to launch Llama 3.1 405B, the google colab link is https://colab.research.google.com/drive/1Jf9Tpw_BW-0tsogyYd_mced6V3eLhFzg?authuser=1 
-(You have reached the free time limit. To continue using Replicate, set up billing at https://replicate.com/account/billing#billing.)
 
 Using the "Dean0HuggingFace/nz-building-code" data and LoRa for fine-tuning Llama 3.1 8B, the google colab link is https://colab.research.google.com/drive/104mFBb7CMGidBnA5Snh_vnQQlJaNqnsr
 
