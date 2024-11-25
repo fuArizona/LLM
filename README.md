@@ -6,7 +6,7 @@ A Chatbot Uses Groq to launch Llama 3 8B, at is https://colab.research.google.co
 
 # Llama 3.1:
 
-Using Replicate API to launch Llama 3.1 405B, the google colab link is https://colab.research.google.com/drive/1Jf9Tpw_BW-0tsogyYd_mced6V3eLhFzg?authuser=1 
+Using Replicate API to launch Llama 3.1 405B, the google colab link is https://colab.research.google.com/drive/1Jf9Tpw_BW-0tsogyYd_mced6V3eLhFzg 
 
 Using the "Dean0HuggingFace/nz-building-code" data and LoRa for fine-tuning Llama 3.1 8B, the google colab link is https://colab.research.google.com/drive/104mFBb7CMGidBnA5Snh_vnQQlJaNqnsr
 
@@ -16,15 +16,20 @@ Using Groq to launch Llama 3.1 8B, the google colab link is https://colab.resear
 
 # Llama 3.2:
 
-Using the pre-defined building data and LoRa for fine-tuning Llama 3.2 11B unsloth version and wandb for the statisitcs, the google colab link is https://colab.research.google.com/drive/1Aw4x6h3hDw8ggF6E-h_ZhlDpQbqLCmoT?authuser=1
+Using the pre-defined building data and LoRa for fine-tuning Llama 3.2 11B unsloth version and wandb for the statisitcs, the google colab link is https://colab.research.google.com/drive/1Aw4x6h3hDw8ggF6E-h_ZhlDpQbqLCmoT
 
-#PDF
+# PDF
 Using PyPDF2 to transfer text from PDF to text, at https://colab.research.google.com/drive/1qRqe5xanS_m9w-GaZB1TztGhGIh3gwn5
+
+# OpenAI
+
+For generating question answer pairs from text, using GPT 3.5 at https://colab.research.google.com/drive/1E_NIaxCJ0zxJVHb-S9risuDpPtJnLpzV
+or using GPT 4 at https://colab.research.google.com/drive/1WNZe2rY8eKyI1HPeE47gAmkHdiVYsF9h
 
 # Amir
 
-Combined_Objects_To_Create_New_Idf_090624: https://colab.research.google.com/drive/13QJj-58G59s5bJuc-8rHsayMR0RQtPm8?authuser=1
-Prompt_Generator_from_IDF_090624_LE: https://colab.research.google.com/drive/14QgeppGHZFl2nEjG22F2zvBB77GIeT_7?authuser=1
+Combined_Objects_To_Create_New_Idf_090624: https://colab.research.google.com/drive/13QJj-58G59s5bJuc-8rHsayMR0RQtPm8
+Prompt_Generator_from_IDF_090624_LE: https://colab.research.google.com/drive/14QgeppGHZFl2nEjG22F2zvBB77GIeT_7
 
 # Sunil
 
@@ -42,7 +47,3 @@ For Database Management:
   
   Pre-processing of ATUS: https://colab.research.google.com/drive/1lZWRDJKk2P7lA9hFf_MdQWinHSTE8xFj
 
-# OpenAI
-
-For generating question answer pairs from text, using GPT 3.5 at https://colab.research.google.com/drive/1E_NIaxCJ0zxJVHb-S9risuDpPtJnLpzV
-or using GPT 4 at https://colab.research.google.com/drive/1WNZe2rY8eKyI1HPeE47gAmkHdiVYsF9h
