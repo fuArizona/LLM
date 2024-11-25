@@ -18,7 +18,7 @@ Using Groq to launch Llama 3.1 8B, the google colab link is https://colab.resear
 
 Using the pre-defined building data and LoRa for fine-tuning Llama 3.2 11B unsloth version and wandb for the statisitcs, the google colab link is https://colab.research.google.com/drive/1Aw4x6h3hDw8ggF6E-h_ZhlDpQbqLCmoT
 
-# PDF
+# For handling PDF
 Using PyPDF2 to transfer text from PDF to text, at https://colab.research.google.com/drive/1qRqe5xanS_m9w-GaZB1TztGhGIh3gwn5
 
 # OpenAI
